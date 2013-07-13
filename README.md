@@ -1,11 +1,5 @@
-<<<<<<< HEAD
-gawesebE
-========
+<<<<<<< 
 
-Tourist app
-=======
-gaweseb
-=======
 
 Tour Guide App
 
